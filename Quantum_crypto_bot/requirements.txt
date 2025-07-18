@@ -1,0 +1,27 @@
+# Core bot & data handling
+python-binance
+websockets
+pandas
+numpy
+
+# Technical indicators & stats
+statsmodels
+
+# Charting & image handling
+matplotlib
+pillow
+
+# Machine learning / deep learning
+torch
+torchvision
+scikit-learn
+tensorboard
+
+# Reinforcement learning
+stable-baselines3
+gym
+
+# (Optional for dashboard/alerts)
+streamlit
+python-telegram-bot
+discord.py
